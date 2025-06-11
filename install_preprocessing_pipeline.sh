@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd src/pixel3dmm/preprocessing/
+cd /content/pixel3dmm/preprocessing/
 
 # facer repository
 git clone git@github.com:FacePerceiver/facer.git
